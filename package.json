@@ -1,0 +1,18 @@
+{
+  "name": "axios-slim",
+  "version": "1.0.0",
+  "description": "A tiny alternative to axios for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js",
+    "prepublish": "npm test"
+  },
+  "keywords": [
+    "axios",
+    "http",
+    "https",
+    "ajax"
+  ],
+  "author": "Rayraegah",
+  "license": "MIT"
+}
