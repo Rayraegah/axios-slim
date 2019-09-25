@@ -7,6 +7,10 @@
     "test": "node tests.js",
     "prepublish": "npm test"
   },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:Rayraegah/axios-slim.git"
+  },
   "keywords": [
     "axios",
     "http",
